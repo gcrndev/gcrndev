@@ -1,5 +1,13 @@
+Full-Stack Developer | Computer Engineering Student
+
+📍 Porto, Portugal · Open to Software Development Opportunities
+
 # 💫 About Me:
-🔭 I’m currently working on:<br>Business automation projects that help streamline workflows and boost efficiency.<br><br>👯 I’m looking to collaborate on:<br>AI-driven solutions, business strategy, and automation-focused projects.<br><br>🤝 I’m looking for help with:<br>Breaking into the AI field and gaining hands-on experience.<br><br>🌱 I’m currently learning:<br>Business automation techniques and tools to build smarter systems.<br><br>💬 Ask me about:<br>Business automation and optimizing processes.
+I'm a Computer Engineering undergraduate with hands-on experience building, deploying and maintaining production web applications.
+
+My work spans frontend development, backend architecture, database design, cloud infrastructure and third-party integrations.
+
+I particularly enjoy engineering reliable systems, solving complex business problems and taking software products from initial design to production.
 
 
 ## 🌐 Socials:
