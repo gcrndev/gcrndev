@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a Computer Engineering undergraduate with hands-on experience building, deploying and maintaining production web applications.
 
 My work spans frontend development, backend architecture, database design, cloud infrastructure and third-party integrations.
