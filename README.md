@@ -1,7 +1,3 @@
-Full-Stack Developer | Computer Engineering Student
-
-📍 Porto, Portugal · Open to Software Development Opportunities
-
 # 💫 About Me:
 I'm a Computer Engineering undergraduate with hands-on experience building, deploying and maintaining production web applications.
 
